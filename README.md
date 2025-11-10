@@ -17,6 +17,6 @@ This project covers the complete Computer Vision workflow:
 
 ## 📊 Results
 
-The model built from scratch achieved a final accuracy of **[ใส่ Accuracy ของคุณตรงนี้, เช่น: 80.12%]** on the validation set after 15 epochs.
+The model built from scratch achieved a final accuracy of 88.80% on the validation set after 15 epochs.
 
 *(Note: The `train/` and `test/` datasets are **not** included in this repository due to their massive size. They can be downloaded from the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats).)*
